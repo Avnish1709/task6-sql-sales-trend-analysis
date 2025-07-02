@@ -42,24 +42,20 @@ The goal of this task is to analyze monthly revenue and order volume using SQL a
 Each query output screenshot is displayed below:
 
 ### 🟩 Query 1: Monthly Revenue and Order Volume  
-**Screenshot:** `![Query 1 Output](screenshots/query1_monthly_revenue.png)
-`
+![Query 1 Output](screenshots/query1_monthly_revenue.png)
 
 ### 🟦 Query 2: Top 3 Months by Revenue  
-**Screenshot:** `![Query 2 Output](screenshots/query2_top3_months.png)
-`
+![Query 2 Output](screenshots/query2_top3_months.png)
 
 ### 🟨 Query 3: 2019 Monthly Sales Trend  
-**Screenshot:** `![Query 3 Output](screenshots/query3_2019_sales.png)
-`
+![Query 3 Output](screenshots/query3_2019_sales.png)
 
 ### 🟧 Query 4: Q1 (Jan–Mar) Sales  
-**Screenshot:** `![Query 4 Output](screenshots/query4_q1_sales.png)
-`
+![Query 4 Output](screenshots/query4_q1_sales.png)
 
 ### 🟫 Query 5: NULL Handling in Sales  
-**Screenshot:** `![Query 5 Output](screenshots/query5_null_handling.png)
-`
+![Query 5 Output](screenshots/query5_null_handling.png)
+
 
 ---
 
